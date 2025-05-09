@@ -6,7 +6,7 @@ Welcome to my SQL & Power BI portfolio! This repository features projects where 
 
 | Project Name                                   | Description                                                                                                      | Tools Used               | Preview      |
 |------------------------------------------------|------------------------------------------------------------------------------------------------------------------|--------------------------|--------------|
-| **Hotel Insights Dashboard**                   | Extracted sales data using SQL queries, cleaned and joined multiple tables, and visualized KPIs and trends.      | SQL, Power BI            | ![Preview]([link-to-screenshot)](https://github.com/asyrafzaidi95/SQL_and_PowerBI_portfolio/blob/main/Screenshot/Hotel%20Analysis%20Overview.PNG?raw=true) |
+| **Hotel Insights Dashboard**                   | Extracted sales data using SQL queries, cleaned and joined multiple tables, and visualized KPIs and trends.      | SQL, Power BI            | ![Preview]](https://github.com/asyrafzaidi95/SQL_and_PowerBI_portfolio/blob/main/Screenshot/Hotel%20Analysis%20Overview.PNG?raw=true) |
 | **HR Analytic Absenteeism Analysis Dashboard**          | This dashboard analyzes employee absenteeism patterns based on factors like education, smoking/drinking habits, pet ownership, medical reasons, and seasonality. It provides insights into absenteeism by weekday, month, and reason, supporting HR decisions on attendance trends. Data was extracted using SQL with key joins between absenteeism at work,compensation and reason tables        | SQL, Power BI            | ![Preview](link-to-screenshot) |
 
 ## 🔧 Tools & Technologies
