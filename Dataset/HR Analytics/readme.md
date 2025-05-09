@@ -1,3 +1,7 @@
+# 📂 Dataset Folder
+
+This folder contains the datasets used in the **HR Absenteeism Analysis Dashboard** and related projects. The data supports SQL querying and Power BI reporting.
+
 ## 📄 Files Included
 
 | File Name                | Description                                                             |
